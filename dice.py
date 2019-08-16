@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 #版权归属lv总
+#__author__ = 'Junyan Lyu'
 import os
 import sys
 import glob
